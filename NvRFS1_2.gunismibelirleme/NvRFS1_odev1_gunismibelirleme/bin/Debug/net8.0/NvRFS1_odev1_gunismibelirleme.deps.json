@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NvRFS1_odev1_gunismibelirleme/1.0.0": {
+        "runtime": {
+          "NvRFS1_odev1_gunismibelirleme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NvRFS1_odev1_gunismibelirleme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NvRFS1_enbuyuksayı/1.0.0": {
+        "runtime": {
+          "NvRFS1_enbuyuksayı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NvRFS1_enbuyuksayı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
